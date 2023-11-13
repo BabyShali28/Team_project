@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+aws-exports.js
 # production
 /build
 
